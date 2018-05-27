@@ -2,1373 +2,1155 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<dict>
-		<key>soundId</key>
-		<string>1000</string>
-		<key>fileName</key>
-		<string>new-mail.caf</string>
-		<key>category</key>
-		<string>MailReceived</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1001</string>
-		<key>fileName</key>
-		<string>mail-sent.caf	</string>
-		<key>category</key>
-		<string>MailSent</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1002</string>
-		<key>fileName</key>
-		<string>Voicemail.caf</string>
-		<key>category</key>
-		<string>VoicemailReceived</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1003</string>
-		<key>fileName</key>
-		<string>ReceivedMessage.caf</string>
-		<key>category</key>
-		<string>SMSReceived</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1004</string>
-		<key>fileName</key>
-		<string>SentMessage.caf</string>
-		<key>category</key>
-		<string>SMSSent</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1005</string>
-		<key>fileName</key>
-		<string>alarm.caf</string>
-		<key>category</key>
-		<string>CalendarAlert</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string>1006</string>
-		<key>fileName</key>
-		<string>low_power.caf	</string>
-		<key>category</key>
-		<string>LowPower</string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>soundId</key>
-		<string></string>
-		<key>fileName</key>
-		<string></string>
-		<key>category</key>
-		<string></string>
-	</dict>
+    <dict>
+        <key>soundId</key>
+        <string>1000</string>
+        <key>fileName</key>
+        <string>new-mail.caf</string>
+        <key>category</key>
+        <string>MailReceived</string>
+    </dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1001</string>
+    <key>fileName</key>
+    <string>mail-sent.caf</string>
+    <key>category</key>
+    <string>MailSent</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1002</string>
+    <key>fileName</key>
+    <string>Voicemail.caf</string>
+    <key>category</key>
+    <string>VoicemailReceived</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1003</string>
+    <key>fileName</key>
+    <string>ReceivedMessage.caf</string>
+    <key>category</key>
+    <string>SMSReceived</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1004</string>
+    <key>fileName</key>
+    <string>SentMessage.caf</string>
+    <key>category</key>
+    <string>SMSSent</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1005</string>
+    <key>fileName</key>
+    <string>alarm.caf</string>
+    <key>category</key>
+    <string>CalendarAlert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1006</string>
+    <key>fileName</key>
+    <string>low_power.caf</string>
+    <key>category</key>
+    <string>LowPower</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1007</string>
+    <key>fileName</key>
+    <string>sms-received1.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1008</string>
+    <key>fileName</key>
+    <string>sms-received2.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1009</string>
+    <key>fileName</key>
+    <string>sms-received3.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1010</string>
+    <key>fileName</key>
+    <string>sms-received4.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1011</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>SMSReceived_Vibrate</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1012</string>
+    <key>fileName</key>
+    <string>sms-received1.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1013</string>
+    <key>fileName</key>
+    <string>sms-received5.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1014</string>
+    <key>fileName</key>
+    <string>sms-received6.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1015</string>
+    <key>fileName</key>
+    <string>Voicemail.caf</string>
+    <key>category</key>
+    <string>Available since 2.1</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1016</string>
+    <key>fileName</key>
+    <string>tweet_sent.caf</string>
+    <key>category</key>
+    <string>Available since 5.0</string>
+</dict>
+
+    
+<dict>
+    <key>soundId</key>
+    <string>1020</string>
+    <key>fileName</key>
+    <string>Anticipate.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+    
+
+<dict>
+    <key>soundId</key>
+    <string>1021</string>
+    <key>fileName</key>
+    <string>Bloom.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1022</string>
+    <key>fileName</key>
+    <string>Calypso.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1023</string>
+    <key>fileName</key>
+    <string>Choo_Choo.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1024</string>
+    <key>fileName</key>
+    <string>Descent.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1025</string>
+    <key>fileName</key>
+    <string>Fanfare.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1026</string>
+    <key>fileName</key>
+    <string>Ladder.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1027</string>
+    <key>fileName</key>
+    <string>Minuet.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1028</string>
+    <key>fileName</key>
+    <string>News_Flash.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1029</string>
+    <key>fileName</key>
+    <string>Noir.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1030</string>
+    <key>fileName</key>
+    <string>Sherwood_Forest.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1031</string>
+    <key>fileName</key>
+    <string>Spell.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1032</string>
+    <key>fileName</key>
+    <string>Suspense.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1033</string>
+    <key>fileName</key>
+    <string>Telegraph.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+    
+<dict>
+    <key>soundId</key>
+    <string>1034</string>
+    <key>fileName</key>
+    <string>Tiptoes.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1035</string>
+    <key>fileName</key>
+    <string>Typewriters.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1036</string>
+    <key>fileName</key>
+    <string>Update.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Alert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1050</string>
+    <key>fileName</key>
+    <string>ussd.caf</string>
+    <key>category</key>
+    <string>USSDAlert</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1051</string>
+    <key>fileName</key>
+    <string>SIMToolkitCallDropped.caf</string>
+    <key>category</key>
+    <string>SIMToolkitTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1052</string>
+    <key>fileName</key>
+    <string>SIMToolkitGeneralBeep.caf</string>
+    <key>category</key>
+    <string>SIMToolkitTone</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1053</string>
+    <key>fileName</key>
+    <string>SIMToolkitNegativeACK.caf</string>
+    <key>category</key>
+    <string>SIMToolkitTone</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1054</string>
+    <key>fileName</key>
+    <string>SIMToolkitPositiveACK.caf</string>
+    <key>category</key>
+    <string>SIMToolkitTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1055</string>
+    <key>fileName</key>
+    <string>SIMToolkitSMS.caf</string>
+    <key>category</key>
+    <string>SIMToolkitTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1057</string>
+    <key>fileName</key>
+    <string>Tink.caf</string>
+    <key>category</key>
+    <string>PINKeyPressed</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1070</string>
+    <key>fileName</key>
+    <string>ct-busy.caf</string>
+    <key>category</key>
+    <string>AudioToneBusy</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1071</string>
+    <key>fileName</key>
+    <string>ct-congestion.caf</string>
+    <key>category</key>
+    <string>AudioToneCongestion</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1072</string>
+    <key>fileName</key>
+    <string>ct-path-ack.caf</string>
+    <key>category</key>
+    <string>AudioTonePathAcknowledge</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1073</string>
+    <key>fileName</key>
+    <string>ct-error.caf</string>
+    <key>category</key>
+    <string>AudioToneError</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1074</string>
+    <key>fileName</key>
+    <string>ct-call-waiting.caf</string>
+    <key>category</key>
+    <string>AudioToneCallWaiting</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1075</string>
+    <key>fileName</key>
+    <string>ct-keytone2.caf</string>
+    <key>category</key>
+    <string>AudioToneKey2</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1100</string>
+    <key>fileName</key>
+    <string>lock.caf</string>
+    <key>category</key>
+    <string>ScreenLocked</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1101</string>
+    <key>fileName</key>
+    <string>unlock.caf</string>
+    <key>category</key>
+    <string>ScreenLocked</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1102</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>FailedUnlock</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1103</string>
+    <key>fileName</key>
+    <string>Tink.caf</string>
+    <key>category</key>
+    <string>KeyPressed</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1104</string>
+    <key>fileName</key>
+    <string>Tock.caf</string>
+    <key>category</key>
+    <string>KeyPressed</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1105</string>
+    <key>fileName</key>
+    <string>Tock.caf</string>
+    <key>category</key>
+    <string>KeyPressed</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1106</string>
+    <key>fileName</key>
+    <string>beep-beep.caf</string>
+    <key>category</key>
+    <string>ConnectedToPower</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1107</string>
+    <key>fileName</key>
+    <string>RingerChanged.caf</string>
+    <key>category</key>
+    <string>RingerSwitchIndication</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1108</string>
+    <key>fileName</key>
+    <string>photoShutter.caf</string>
+    <key>category</key>
+    <string>CameraShutter</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1109</string>
+    <key>fileName</key>
+    <string>shake.caf</string>
+    <key>category</key>
+    <string>ShakeToShuffle</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1110</string>
+    <key>fileName</key>
+    <string>jbl_begin.caf</string>
+    <key>category</key>
+    <string>JBL_Begin</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1111</string>
+    <key>fileName</key>
+    <string>jbl_confirm.caf</string>
+    <key>category</key>
+    <string>JBL_Confirm</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1112</string>
+    <key>fileName</key>
+    <string>jbl_cancel.caf</string>
+    <key>category</key>
+    <string>JBL_Cancel</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1113</string>
+    <key>fileName</key>
+    <string>begin_record.caf</string>
+    <key>category</key>
+    <string>BeginRecording</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1114</string>
+    <key>fileName</key>
+    <string>end_record.caf</string>
+    <key>category</key>
+    <string>EndRecording</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1115</string>
+    <key>fileName</key>
+    <string>jbl_ambiguous.caf</string>
+    <key>category</key>
+    <string>JBL_Ambiguous</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1116</string>
+    <key>fileName</key>
+    <string>jbl_no_match.caf</string>
+    <key>category</key>
+    <string>JBL_NoMatch</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1117</string>
+    <key>fileName</key>
+    <string>begin_video_record.caf</string>
+    <key>category</key>
+    <string>BeginVideoRecording</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1118</string>
+    <key>fileName</key>
+    <string>end_video_record.caf</string>
+    <key>category</key>
+    <string>EndVideoRecording</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1150</string>
+    <key>fileName</key>
+    <string>vc~invitation-accepted.caf</string>
+    <key>category</key>
+    <string>VCInvitationAccepted</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1151</string>
+    <key>fileName</key>
+    <string>vc~ringing.caf</string>
+    <key>category</key>
+    <string>VCRinging</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1152</string>
+    <key>fileName</key>
+    <string>vc~ended.caf</string>
+    <key>category</key>
+    <string>VCEnded</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1153</string>
+    <key>fileName</key>
+    <string>ct-call-waiting.caf</string>
+    <key>category</key>
+    <string>VCCallWaiting</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1154</string>
+    <key>fileName</key>
+    <string>vc~ringing.caf</string>
+    <key>category</key>
+    <string>VCCallUpgrade</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1200</string>
+    <key>fileName</key>
+    <string>dtmf-0.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1201</string>
+    <key>fileName</key>
+    <string>dtmf-1.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1202</string>
+    <key>fileName</key>
+    <string>dtmf-2.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1203</string>
+    <key>fileName</key>
+    <string>dtmf-3.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1204</string>
+    <key>fileName</key>
+    <string>dtmf-4.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1205</string>
+    <key>fileName</key>
+    <string>dtmf-5.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1206</string>
+    <key>fileName</key>
+    <string>dtmf-6.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1207</string>
+    <key>fileName</key>
+    <string>dtmf-7.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1208</string>
+    <key>fileName</key>
+    <string>dtmf-8.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1209</string>
+    <key>fileName</key>
+    <string>dtmf-9.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1210</string>
+    <key>fileName</key>
+    <string>dtmf-star.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1211</string>
+    <key>fileName</key>
+    <string>dtmf-pound.caf</string>
+    <key>category</key>
+    <string>TouchTone</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1254</string>
+    <key>fileName</key>
+    <string>long_low_short_high.caf</string>
+    <key>category</key>
+    <string>Headset_StartCall</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1255</string>
+    <key>fileName</key>
+    <string>short_double_high.caf</string>
+    <key>category</key>
+    <string>Headset_Redial</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1256</string>
+    <key>fileName</key>
+    <string>short_low_high.caf</string>
+    <key>category</key>
+    <string>Headset_AnswerCall</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1257</string>
+    <key>fileName</key>
+    <string>short_double_low.caf</string>
+    <key>category</key>
+    <string>Headset_EndCall</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1258</string>
+    <key>fileName</key>
+    <string>short_double_low.caf</string>
+    <key>category</key>
+    <string>Headset_CallWaitingActions</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1259</string>
+    <key>fileName</key>
+    <string>middle_9_short_double_low.caf</string>
+    <key>category</key>
+    <string>Headset_TransitionEnd</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1300</string>
+    <key>fileName</key>
+    <string>Voicemail.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1301</string>
+    <key>fileName</key>
+    <string>ReceivedMessage.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1302</string>
+    <key>fileName</key>
+    <string>new-mail.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1303</string>
+    <key>fileName</key>
+    <string>mail-sent.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1304</string>
+    <key>fileName</key>
+    <string>alarm.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1305</string>
+    <key>fileName</key>
+    <string>lock.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1306</string>
+    <key>fileName</key>
+    <string>Tock.caf</string>
+    <key>category</key>
+    <string>KeyPressClickPreview</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1307</string>
+    <key>fileName</key>
+    <string>sms-received1.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1308</string>
+    <key>fileName</key>
+    <string>sms-received2.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1309</string>
+    <key>fileName</key>
+    <string>sms-received3.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1310</string>
+    <key>fileName</key>
+    <string>sms-received4.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1311</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>SMSReceived_Vibrate</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1312</string>
+    <key>fileName</key>
+    <string>sms-received1.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1313</string>
+    <key>fileName</key>
+    <string>sms-received5.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1314</string>
+    <key>fileName</key>
+    <string>sms-received6.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1315</string>
+    <key>fileName</key>
+    <string>Voicemail.caf</string>
+    <key>category</key>
+    <string>SystemSoundPreview</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1320</string>
+    <key>fileName</key>
+    <string>Anticipate.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1321</string>
+    <key>fileName</key>
+    <string>Bloom.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1322</string>
+    <key>fileName</key>
+    <string>Calypso.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1323</string>
+    <key>fileName</key>
+    <string>Choo_Choo.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+<dict>
+    <key>soundId</key>
+    <string>1324</string>
+    <key>fileName</key>
+    <string>Descent.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1325</string>
+    <key>fileName</key>
+    <string>Fanfare.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1326</string>
+    <key>fileName</key>
+    <string>Ladder.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1327</string>
+    <key>fileName</key>
+    <string>Minuet.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1328</string>
+    <key>fileName</key>
+    <string>News_Flash.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1329</string>
+    <key>fileName</key>
+    <string>Noir.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1330</string>
+    <key>fileName</key>
+    <string>Sherwood_Forest.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1331</string>
+    <key>fileName</key>
+    <string>Spell.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1332</string>
+    <key>fileName</key>
+    <string>Suspense.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1333</string>
+    <key>fileName</key>
+    <string>Telegraph.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1334</string>
+    <key>fileName</key>
+    <string>Tiptoes.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+
+<dict>
+    <key>soundId</key>
+    <string>1335</string>
+    <key>fileName</key>
+    <string>Typewriters.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1336</string>
+    <key>fileName</key>
+    <string>Update.caf</string>
+    <key>category</key>
+    <string>SMSReceived_Selection</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1350</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>RingerVibeChanged</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>1351</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>SilentVibeChanged</string>
+</dict>
+
+<dict>
+    <key>soundId</key>
+    <string>4095</string>
+    <key>fileName</key>
+    <string>-</string>
+    <key>category</key>
+    <string>Vibrate</string>
+</dict>
+
+
 </array>
 </plist>

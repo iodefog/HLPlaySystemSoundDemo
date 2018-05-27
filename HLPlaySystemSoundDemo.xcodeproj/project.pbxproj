@@ -12,8 +12,7 @@
 		C7A96E7C20B81BE80058D31D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E7A20B81BE80058D31D /* Main.storyboard */; };
 		C7A96E7E20B81BE80058D31D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E7D20B81BE80058D31D /* Assets.xcassets */; };
 		C7A96E8120B81BE80058D31D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E7F20B81BE80058D31D /* LaunchScreen.storyboard */; };
-		C7A96E8920B820060058D31D /* SoundsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E8820B820060058D31D /* SoundsList.plist */; };
-		C7A96E8B20B8213D0058D31D /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E8A20B8213D0058D31D /* Property List.plist */; };
+		C7A96E8B20B8213D0058D31D /* SoundsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = C7A96E8A20B8213D0058D31D /* SoundsList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +23,7 @@
 		C7A96E7D20B81BE80058D31D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7A96E8020B81BE80058D31D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7A96E8220B81BE90058D31D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7A96E8820B820060058D31D /* SoundsList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SoundsList.plist; sourceTree = "<group>"; };
-		C7A96E8A20B8213D0058D31D /* Property List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		C7A96E8A20B8213D0058D31D /* SoundsList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SoundsList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +62,7 @@
 				C7A96E7D20B81BE80058D31D /* Assets.xcassets */,
 				C7A96E7F20B81BE80058D31D /* LaunchScreen.storyboard */,
 				C7A96E8220B81BE90058D31D /* Info.plist */,
-				C7A96E8820B820060058D31D /* SoundsList.plist */,
-				C7A96E8A20B8213D0058D31D /* Property List.plist */,
+				C7A96E8A20B8213D0058D31D /* SoundsList.plist */,
 			);
 			path = HLPlaySystemSoundDemo;
 			sourceTree = "<group>";
@@ -130,8 +127,7 @@
 			files = (
 				C7A96E8120B81BE80058D31D /* LaunchScreen.storyboard in Resources */,
 				C7A96E7E20B81BE80058D31D /* Assets.xcassets in Resources */,
-				C7A96E8920B820060058D31D /* SoundsList.plist in Resources */,
-				C7A96E8B20B8213D0058D31D /* Property List.plist in Resources */,
+				C7A96E8B20B8213D0058D31D /* SoundsList.plist in Resources */,
 				C7A96E7C20B81BE80058D31D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

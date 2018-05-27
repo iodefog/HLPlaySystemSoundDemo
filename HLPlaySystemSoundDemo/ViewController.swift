@@ -12,26 +12,26 @@ import AudioToolbox
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
 
-    var tableview : UITableView? = nil;
-    var soundsArray = NSMutableArray();
+    var myTableview : UITableView? = nil;
+    var soundsArray:NSArray?;
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        tableview = UITableView(frame: self.view.bounds, style: UITableViewStyle.plain);
-        tableview?.delegate = self;
-        tableview?.dataSource = self;
-        self.view.addSubview(tableview!);
-        
-        tableview?.register(UITableViewCell.self, forCellReuseIdentifier: "HLTableViewCell")
+        myTableview = UITableView(frame: self.view.bounds, style: UITableViewStyle.plain);
+        myTableview?.delegate = self;
+        myTableview?.dataSource = self;
+        self.view.addSubview(myTableview!);
         
         // 配置数据
         configurationSound();
     }
     
     func configurationSound() {
-        
+        let plistPath:String? = Bundle.main.path(forResource: "SoundsList", ofType: "plist")
+        soundsArray = NSArray(contentsOfFile: plistPath!);
+        self.myTableview?.reloadData();
     }
     
     func numberOfSections(in tableView: UITableView) -> Int {
@@ -39,20 +39,40 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-       return soundsArray.count;
+        return soundsArray!.count;
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell : UITableViewCell = (tableview?.dequeueReusableCell(withIdentifier: "HLTableViewCell", for: indexPath))!;
-        
-        return cell;
+        let cellName:String = "HLTableViewCell";
+        var cell : UITableViewCell? = tableView.dequeueReusableCell(withIdentifier: cellName);
+        if (nil == cell) {
+            cell = UITableViewCell.init(style: UITableViewCellStyle.subtitle, reuseIdentifier: cellName);
+        }
+        if  (indexPath.row < (soundsArray?.count)!) {
+            let dict:NSDictionary = soundsArray?.object(at: indexPath.row) as! NSDictionary;
+            let fileName:String? = String.init(format: "%@  %@", (dict["category"] as! String), (dict["fileName"] as! String));
+            cell?.textLabel?.text = fileName as String? ;
+                
+            cell?.detailTextLabel?.text = String.init(format: "soundId: %@", (dict["soundId"] as! String));
+        }
+        return cell!;
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        AudioServicesPlaySystemSound(1335);
+        let dict:NSDictionary = soundsArray?.object(at: indexPath.row) as! NSDictionary;
+        let soundId:NSString = dict.object(forKey: "soundId") as! NSString;
+        
+        AudioServicesPlaySystemSound(SystemSoundID(soundId.intValue));
+        
+//        播放震动
+//        AudioServicesPlaySystemSound(kSystemSoundID_Vibrate);
     }
     
 
+    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 64;
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
