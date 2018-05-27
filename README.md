@@ -8,6 +8,8 @@
 
 ###对照表
 
+<table>
+
 Sound ID   |	File name (iPhone)   |	 File name (iPod Touch)   |	Category   |	Note   
 --- | --- |  --- |  --- | --- | ---
 1000	| new-mail.caf |	new-mail.caf |	MailReceived	 
@@ -135,5 +137,8 @@ Sound ID   |	File name (iPhone)   |	 File name (iPod Touch)   |	Category   |	Not
 1350	|-	|-	|RingerVibeChanged	 
 1351	|-	|-	|SilentVibeChanged	 
 4095	|-	|-	|Vibrate	|There was no category for this sound before 2.2.
+
+</table>
+
 
 In the SDK this is the constant kSystemSoundID_Vibrate.
